@@ -37,8 +37,8 @@ Para visualizar o Netflix Clone, siga as instruções abaixo:
 
 ## Link
 
-Link para visualizar o projeto: [Clone Netflix](https://leonardos1lva.github.io/Clone-Netflix/)
-Link para o repositório: [Repositório](https://github.com/LeonardoS1lva/Clone-Netflix)
+- Link para visualizar o projeto: [Clone Netflix](https://leonardos1lva.github.io/Clone-Netflix/)
+- Link para o repositório: [Repositório](https://github.com/LeonardoS1lva/Clone-Netflix)
 
 ## Contribuição
 
